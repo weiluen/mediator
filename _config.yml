@@ -2,6 +2,8 @@
 gems:
   - jemoji
   - jekyll-paginate
+  
+exclude: [vendor]
 
 # Site settings
 title: "Mediator"
@@ -57,3 +59,4 @@ social:
 #    share_url:
 #    share_title:
 #    share_link:
+
