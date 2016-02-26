@@ -6,9 +6,9 @@ gems:
 exclude: [vendor]
 
 # Site settings
-title: "Mediator"
+title: "P O L I"
 description: > # this means to ignore newlines until "email:"
-   P O L I - A N O N Y M O U S   C H A T   A P P
+   A UT-focused anonymous chat application
 
 email: james.huang@weiluen.com
 #blog logo
