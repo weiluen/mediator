@@ -3,15 +3,18 @@ layout: page
 title: About
 permalink: /about/
 ---
+#POLI is anonymous . . .
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Getpoli.co is where you can find all of the latest news on the POLI Anonymous Chat application. POLI is a fun app that's made by UT students for UT students.
+We're a team of 4 UT students (3 Computer Science & 1 Journalism) trying to make it more convenient for students to connect with one another. Our goal is to make
+a fun, safe, and an email-verified anonymous chat application. 
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+#POLI is about your opinion . . .
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Here at POLI, we want you to be able to express your opinion without the fear of repercusion. We want to foster a community that's based on a shared identify.
+We're exclusive. We don't let random A&M students or anyone but UT students chat on our application! Hook 'em. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+#POLI is better than the others . . .
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+When you fire up YikYak, how often do you get trolls and people from the outside community trying to monopoolize the conversation. What if students could have a more
+focused forum for chatting about their classes, grades, and happenings? POLI solves these problems and guarantees that you're only talking to other students.

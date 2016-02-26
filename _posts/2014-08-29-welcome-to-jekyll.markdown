@@ -1,39 +1,40 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2014-08-29 14:34:25
+title:  "On the Move . . ."
+date:   2016-02-22 14:34:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: /assets/article_images/2016-02-22-onthemove/desktop.jpg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+#On the Move . . .
 
-Jekyll also offers powerful support for code snippets:
+With a promising plan put into place and a clear direction, Poli is most definitely in full development mode! Over the past two weeks we’ve been working diligently to put forth the best possible product.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![Home Screen]({{ site.url }}/assets/images/home.png)
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+As you can see, we’ve taken steps to draw out Poli’s user interface and create an interface that user’s are familiar and can quickly understand.  Quan Vo worked with the team’s input to design an interface that is simple and intuitive while also containing the necessary features that Poli requires.
 
-{% highlight js %}
+We also worked to make the interface very clean and compact so that there’s not a lot of moving pieces.
 
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
+![Posting Screen]({{ site.url }}/assets/images/posting.png)
 
+In addition to the sketching and development of a user interface, we worked to create an icon for Poli. James Huang lead the charge on the development of the icon. He based his designs around how Apple would use Picasso to teach their workers how to think about product design. In PIcasso’s “The Bull,” the famous artist used a literal representation of a bull and eventually mutated it into a series of abstract elements.
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+For the Poli icon, James started with high fidelity images of what he though would be icebergs and gradually experimented with the form until he could distill the lines into it’s most necessary form. He tried to simplify and capture an iceberg and polygonal scene down to a minimum of lines while also trying to adhere to the golden ration.
+
+![First Icon]({{ site.url }}/assets/images/icon1.png)
+![Second Icon]({{ site.url }}/assets/images/icon2.png)
+![Third Icon]({{ site.url }}/assets/images/icon3.png)
+![Fourth Icon]({{ site.url }}/assets/images/icon4.png)
+![Fifth Icon]({{ site.url }}/assets/images/icon5.png)
+
+Pretty cool, right?
+
+While we were working on the style of Poli, we didn’t not forget the technical side. A GitHub was set up for the app as we also started the development of getpoli.co, our website for Poli.
+
+To compliment our future website, Josh Blount and CJ Kim worked together to create Facebook, Twitter, and Instagram accounts for Poli, so be sure to follow and like us to be apart of our slow, but growing fan base.
+
+We’ve also created a <a href="https://docs.google.com/forms/d/1CMDzvx7qIO2l22mI3PmtA2gLoY8O07bMNxlpNK_yTOo/viewform">survey</a> to better understand users needs in a anonymous messaging app and will be sending it out shortly with the goal being to receive around 80-100 replies
+
+In summary, Team TION had a very production week since we last spoke and we can’t wait to continue our journey.
