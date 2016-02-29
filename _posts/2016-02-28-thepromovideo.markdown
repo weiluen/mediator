@@ -34,9 +34,9 @@ This past week at Poli, we've been hard at work on creating an exciting promotio
 
 ![And we shot multiple takes of every single scene. ]({{ site.url }}/assets/article_images/2016-02-28-thepromovideo/3.jpg)
 
-After multiple takes and a ton of redos (none of us have any acting experience), here's the finished product.
+Josh was a wizard with the editing. We shot a ton of giggle-ridden scenes that he somehow stitched together to create a far better final edit than any of us could have hoped for. After multiple takes and a ton of redos (we have no Leos on the team), here's the finished product. I hope you'll enjoy it as much as much as we enjoyed filming it!
 
 <iframe src="https://player.vimeo.com/video/157073619" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-Overall, it's been a pretty productive week for the Poli team.
+Overall, it's been a pretty productive week for your friends on the Poli team.
 
