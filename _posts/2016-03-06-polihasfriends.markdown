@@ -13,12 +13,12 @@ At its core, Poli is an app for UT students. We want UT Students to connect with
 
 Of the people who responded to our survey, 75 percent believe that verifying users by their university/workplace email address would be a good idea. With this type of percentage in our favor, we believe this is a key feature that will play an important role in Poli’s growth. 
 
-![Final Logo]({{ site.url }}/assets/article_images/2016-03-06-polihasfriends/1.png)
+![Chart One]({{ site.url }}/assets/article_images/2016-03-06-polihasfriends/1.png)
 
 
 The data from the survey also yielded positive results when it came to our idea of making sure Poli had channels for topic focused chatting as 88.9 percent of responses were in favor. We were definitely excited to see this as a team and know we’re headed in the right direction with two key features! 
 
-![Final Logo]({{ site.url }}/assets/article_images/2016-02-28-polihasfriends/2.png)
+![Final Logo]({{ site.url }}/assets/article_images/2016-03-06-polihasfriends/2.png)
 
 With help from James, CJ, and Josh, our social media game also took a step up as we saw significant gains in our number of followers. We now have 60 Facebook likes (we gained 38 in one week!), 29 Twitter followers and 9 Instagram followers. These numbers are great for us as we still have social media strategies we are still implementing. We will continue to make steps increasing the buzz and information about Poli before our April release.   
 
