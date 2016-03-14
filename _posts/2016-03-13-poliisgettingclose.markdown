@@ -4,7 +4,7 @@ title:  "Poli is Getting Close"
 date:   2016-03-13 14:34:25
 categories: jekyll update
 tags: featured
-image: /assets/article_images/2016-03-13-poliisgettingclose/sxsw.png
+image: /assets/article_images/2016-03-13-poliisgettingclose/sxsw.jpg
 ---
 
 ##Hi fans!
